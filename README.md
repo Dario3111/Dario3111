@@ -31,7 +31,17 @@ Soy un **Desarrollador Full Stack** apasionado, con experiencia en **Desarrollo 
 
 
 ---
+---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dario3111&layout=compact)  
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Dario3111)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dario3111&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=000000)  
+![Stars](https://img.shields.io/github/stars/Dario3111/repository-name?style=flat-square&label=Stars)  
+
+![GitHub Actions](https://img.shields.io/github/workflow/status/Dario3111/repository-name/CI?label=CI%20status)  
+![Skill Progress](https://progress-bar.dev/60/?title=React)  
+
+---
 ## 📍 Dónde Encontrarme:
 - ✉️ **Correo**: [dario3pacheco@gmail.com](mailto:dario3pacheco@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dario3pacheco/)
