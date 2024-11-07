@@ -1,6 +1,6 @@
 # Hola, soy Dario
 
-Soy un **Desarrollador Full Stack** apasionado, con experiencia en **Desarrollo Web**, **Artes Gráficas** y **Electrónica**. Disfruto creando aplicaciones innovadoras y útiles, fusionando creatividad y habilidades técnicas.
+ **Desarrollador Full Stack** apasionado, con experiencia en **Desarrollo Web**, **Artes Serigráficas** y **Electrónica**. Disfruto creando aplicaciones innovadoras y útiles, fusionando creatividad y habilidades técnicas.
 
 🌱 Me encuentro en constante aprendizaje, especialmente en el área de **Inteligencia Artificial**, explorando formas de integrarla en mis desarrollos.
 
