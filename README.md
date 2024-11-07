@@ -32,14 +32,18 @@ Soy un **Desarrollador Full Stack** apasionado, con experiencia en **Desarrollo 
 
 ---
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dario3111&layout=compact)  
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Dario3111)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dario3111&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=00ff00)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dario3111&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=000000)  
-![Stars](https://img.shields.io/github/stars/Dario3111/repository-name?style=flat-square&label=Stars)  
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Dario3111&background=000000&ring=00ff00&fire=00ff00&currStreakNum=ffffff&currStreakLabel=00ff00&sideNums=ffffff&sideLabels=00ff00&dates=00ff00)
 
-![GitHub Actions](https://img.shields.io/github/workflow/status/Dario3111/repository-name/CI?label=CI%20status)  
-![Skill Progress](https://progress-bar.dev/60/?title=React)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dario3111&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=000000)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dario3111&show_icons=true&count_private=true&hide=prs&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=00ff00)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dario3111&theme=dark&margin-w=15&margin-h=15)
+
+![Commit Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Dario3111&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=000000)
+ 
 
 ---
 ## 📍 Dónde Encontrarme:
