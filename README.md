@@ -20,7 +20,9 @@
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=61DAFB" alt="React" style="border: 1px solid #dcdcdc; background-color: transparent;">
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS" style="border: 1px solid #dcdcdc; background-color: transparent;">
   <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" style="border: 1px solid #dcdcdc; background-color: transparent;">
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" style="border: 1px solid #dcdcdc; background-color: transparent;">
 </div>
+
 
 ### **Backend**
 
@@ -40,13 +42,9 @@
 
 ---
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dario3111&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=00ff00)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dario3111&layout=compact&bg_color=00000000&text_color=ffffff&title_color=ffffff&icon_color=00ff00&border_color=dcdcdc)
 
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Dario3111&background=000000&ring=00ff00&fire=00ff00&currStreakNum=ffffff&currStreakLabel=00ff00&sideNums=ffffff&sideLabels=00ff00&dates=00ff00)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dario3111&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=000000)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dario3111&show_icons=true&count_private=true&hide=prs&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=00ff00)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Dario3111&background=00000000&ring=00ff00&fire=00ff00&currStreakNum=ffffff&currStreakLabel=00ff00&sideNums=ffffff&sideLabels=00ff00&dates=00ff00&border=dcdcdc)
 
 ---
 ## 📍 Dónde Encontrarme:
